@@ -6,7 +6,7 @@ const { add } = require('./app');
 
 // Test Case 1: Addition of two positive numbers
 test('Addition of two positive numbers', () => {
-    assert.equal(add(5, 3), 10);
+    assert.equal(add(5, 3), 8);
 });
 
 // Test Case 2: Addition of zero and a negative number
