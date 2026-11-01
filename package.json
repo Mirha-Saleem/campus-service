@@ -1,0 +1,18 @@
+
+{
+  "name": "campus-service",
+  "version": "1.0.0",
+  "description": "A simple Campus Service project for DevOps assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "devops",
+    "campus-service",
+    "testing"
+  ],
+  "author": "Student",
+  "license": "ISC"
+}
+
